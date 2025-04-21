@@ -1,11 +1,7 @@
 [
   {
-    "name": "Sample Plugin",
-    "entry": "./plugins/sample-plugin/plugin.js"
-  },
-
-  {
-    "name": "IDKT-Gamage-Plugin",
-    "entry": "./plugins/IDKT-Gamage-Plugin/plugin.js"
+    "name": "Plugin B",
+    "entry": "./plugins/plugin-b/plugin.js"
   }
+  
 ]
