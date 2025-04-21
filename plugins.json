@@ -1,7 +1,13 @@
 [
   {
+
     "name": "Plugin B",
     "entry": "./plugins/plugin-b/plugin.js"
+  },
+  {
+    "name": "Plugin A",
+    "entry": "./plugins/plugin-a/plugin.js"
+
   }
   
 ]
